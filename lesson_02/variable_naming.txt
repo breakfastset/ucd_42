@@ -1,0 +1,44 @@
+Rules for naming variables:
+1. can only contain alphabets, numbers, _
+2. can only start with alphabets or _
+3. cannot be a python keyword
+   eg. class, while, for
+
+Guidelines for variables:
+1. must be lowercase
+2. use _ to separate words
+3. must be meaningful
+   -> not too short
+   -> not too long
+4. usually property names
+
+valid names:
+num_student    # good name
+student_count  # good name
+sweet_count    # good name
+height         # ok
+weight         # ok
+a     # a stands for what?
+xa    # bad names
+
+invalid names
+full name   # has white space
+4ever       # cannot start with digit
+you+me      # cannot have +
+class       # keyword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
