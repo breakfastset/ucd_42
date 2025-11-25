@@ -1,0 +1,6 @@
+BYD,Seal,B,12
+Tesla,X,A,5
+Mercedes Benz,GCB,B,3
+Audi,A2,A,7
+Toyota,Altis,A,5
+Xiaomi,Y7,B,3
