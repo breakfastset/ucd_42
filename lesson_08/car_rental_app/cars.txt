@@ -1,0 +1,6 @@
+BYD,Sealion,B,13
+Nissan,GTR,B,5
+BYD,Dolphin,A,0
+Mercedes Benz,EQB,B,0
+Hyundai,Avante,A,8
+Honda,Fit,A,6
